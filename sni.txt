@@ -14,3 +14,20 @@ cloudinary.com
 www.netlify.com
 stackoverflow.com
 www.gsmarena.com
+
+    gymnasium-lengerich.de
+
+    fvb-lengerich.de
+
+    ge-lt.de
+
+   dbrs-lengerich.de
+
+    gs-intrup.de
+
+    hohne-lengerich.de
+
+    gs-stadt-lengerich.de
+
+    sfm-lengerich.de
+
